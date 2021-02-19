@@ -1,5 +1,6 @@
 const websites = [
 	  "*://*.adelaidenow.com.au/*",
+	  "*://*.ntnews.com.au/*",
 	  "*://*.baltimoresun.com/*",
 	  "*://*.barrons.com/*",
 	  "*://*.chicagobusiness.com/*",
